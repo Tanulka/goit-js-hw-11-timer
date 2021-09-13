@@ -6,6 +6,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.field:not(:last-child) {
   margin-right: 10px;
 }
 
