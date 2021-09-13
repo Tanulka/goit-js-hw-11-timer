@@ -19,9 +19,11 @@
   color: white;
   background-color: rgb(61, 58, 58);
   font-size: 100px;
+  font-family: 'Urbanist', sans-serif;
 }
 
 .label {
   font-size: 24px;
   color: rgb(146, 135, 135);
+  font-family: 'Urbanist', sans-serif;
 }
